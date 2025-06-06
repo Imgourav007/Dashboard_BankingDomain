@@ -8,15 +8,15 @@ To address the challenge of assessing lending risk, this Power BI dashboard was 
 The solution leverages Power BI's advanced data modeling, transformation, and visualization features to create a user-friendly and insightful dashboard for decision-makers in the banking sector.
 
 ## Key Aspects of the Solution:
-1. Data Integration: Combined multiple interrelated tables using relationships (primary and foreign keys) to unify client, account, and banking relationship data.
+1. **Data Integration:** Combined multiple interrelated tables using relationships (primary and foreign keys) to unify client, account, and banking relationship data.
 
-2. Data Cleaning & Enrichment: Added new columns like Engagement Days, Income Band, and Processing Fees to provide deeper insights into customer behavior and risk categorization.
+2. **Data Cleaning & Enrichment:** Added new columns like Engagement Days, Income Band, and Processing Fees to provide deeper insights into customer behavior and risk categorization.
 
-3. Dynamic Metrics with DAX: Used DAX functions such as SUMX, DISTINCTCOUNT, and DATEDIFF to derive meaningful KPIs like Total Loans, Total Deposits, and Client Engagement Duration.
+3. **Dynamic Metrics with DAX:** Used DAX functions such as SUMX, DISTINCTCOUNT, and DATEDIFF to derive meaningful KPIs like Total Loans, Total Deposits, and Client Engagement Duration.
 
-4. Interactive Dashboards: Designed a set of interactive reports (Loan Analysis, Deposit Analysis, Summary Dashboard) to help stakeholders quickly identify risk patterns and opportunities.
+4. **Interactive Dashboards:** Designed a set of interactive reports (Loan Analysis, Deposit Analysis, Summary Dashboard) to help stakeholders quickly identify risk patterns and opportunities.
 
-5. Business Value:  
+5. **Business Value:**  
 Empowers banking professionals to:    
 a. Assess whether an applicant is likely to repay a loan.  
 b. Understand deposit behaviors across account types.  
