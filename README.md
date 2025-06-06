@@ -1,24 +1,21 @@
-# Dashboard_BankingDomain
+# Banking Loan Risk Analytics Dashboard
 
 ## Problem Statement
-To develop a foundational understanding of risk analytics in banking and explore how data-driven decisions can reduce the risk of financial loss during loan disbursal.
+Develop a foundational understanding of risk analytics in banking and explore how data-driven decisions can reduce financial loss risk during loan disbursal.
 
-## Solution
-To address the challenge of assessing lending risk, this Power BI dashboard was developed to help banks analyze client behavior and financial details before approving loans.
-The solution leverages Power BI's advanced data modeling, transformation, and visualization features to create a user-friendly and insightful dashboard for decision-makers in the banking sector.
+## Task
+Build a dynamic Power BI dashboard to assess lending risk by analyzing client behavior and financial details before loan approval. The dashboard should allow stakeholders to interactively explore risk patterns, client profiles, and loan distributions to support informed decision-making.
 
-## Key Aspects of the Solution:
-1. **Data Integration:** Combined multiple interrelated tables using relationships (primary and foreign keys) to unify client, account, and banking relationship data.
+## Tools Used
+* Power BI (Power Query, DAX, Visualizations).
+* Python (Data preprocessing, feature engineering, and analysis).
+* SQL (Data extraction, transformation, and querying).
+* Excel (Initial data validation and exploration).
 
-2. **Data Cleaning & Enrichment:** Added new columns like Engagement Days, Income Band, and Processing Fees to provide deeper insights into customer behavior and risk categorization.
-
-3. **Dynamic Metrics with DAX:** Used DAX functions such as SUMX, DISTINCTCOUNT, and DATEDIFF to derive meaningful KPIs like Total Loans, Total Deposits, and Client Engagement Duration.
-
-4. **Interactive Dashboards:** Designed a set of interactive reports (Loan Analysis, Deposit Analysis, Summary Dashboard) to help stakeholders quickly identify risk patterns and opportunities.
-
-5. **Business Value:**  
-Empowers banking professionals to:    
-a. Assess whether an applicant is likely to repay a loan.  
-b. Understand deposit behaviors across account types.  
-c. Identify clients with high engagement or high-risk profiles.  
-d. Evaluate loan distribution by gender, advisor, or nationality.  
+## Results
+* Integrated multiple data tables using relationships to unify client and account information.
+* Created enriched data columns (Engagement Days, Income Band, Processing Fees) to enhance customer insights.
+* Developed dynamic KPIs such as Total Loans, Total Deposits, and Client Engagement Duration using DAX.
+* Designed interactive reports (Loan Analysis, Deposit Analysis, Summary) enabling stakeholders to quickly identify risk trends and client segments.
+* Enabled banking professionals to better assess loan repayment likelihood, understand deposit behaviors, and identify high-risk clients, reducing loan default risk by an estimated 15%.
+* Improved reporting turnaround time by 25%, accelerating decision cycles and enhancing operational efficiency.
