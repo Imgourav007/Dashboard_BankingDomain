@@ -1,5 +1,7 @@
 # Banking Loan Risk Analytics Dashboard
 
+![image](https://github.com/Imgourav007/Dashboard_BankingDomain/blob/f4e5a87e4eb40073a25c047dd1d199078ef54a54/Banking%20Dashboard%20img.png)
+
 ## Problem Statement
 Develop a foundational understanding of risk analytics in banking and explore how data-driven decisions can reduce financial loss risk during loan disbursal.
 
