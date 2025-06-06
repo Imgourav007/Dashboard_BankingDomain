@@ -16,8 +16,8 @@ The solution leverages Power BI's advanced data modeling, transformation, and vi
 
 4. Interactive Dashboards: Designed a set of interactive reports (Loan Analysis, Deposit Analysis, Summary Dashboard) to help stakeholders quickly identify risk patterns and opportunities.
 
-Business Value:
-Empowers banking professionals to:
+5. Business Value:
+   Empowers banking professionals to:
 a. Assess whether an applicant is likely to repay a loan.
 b. Understand deposit behaviors across account types.
 c. Identify clients with high engagement or high-risk profiles.
