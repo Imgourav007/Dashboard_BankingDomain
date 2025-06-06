@@ -19,6 +19,7 @@ The solution leverages Power BI's advanced data modeling, transformation, and vi
 5. Business Value:
    
    Empowers banking professionals to:
+   
 a. Assess whether an applicant is likely to repay a loan.
 b. Understand deposit behaviors across account types.
 c. Identify clients with high engagement or high-risk profiles.
